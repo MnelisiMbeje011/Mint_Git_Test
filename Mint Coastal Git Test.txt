@@ -4,7 +4,7 @@ Name: Mnelisi
 Surname Mbeje
 =========================================================================================
 Question1: What is the difference between a remote branch and a local branch?
-Answer1: test answer 1
+Answer1: a remote branch is hosted on git where the local branch is on my machine.
 Question2: What does a git pull command do ?
 Answer2: test answer 2
 Question3: What does a git push command do ?
